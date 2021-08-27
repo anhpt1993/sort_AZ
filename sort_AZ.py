@@ -19,6 +19,6 @@ def sorted_list(list):
 
 if __name__ == '__main__':
     number = []
-    for i in range(9):
+    for i in range(3):
         number.append(input_data())
     print(sorted_list(number))
